@@ -1,3 +1,5 @@
 oak
 pine
 alon
+dekel
+kokus
